@@ -1,26 +1,4 @@
-/* public/style.css */
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-}
-
-#chat {
-    max-width: 600px;
-    margin: 50px auto;
-    background: white;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-#messages {
-    list-style-type: none;
-    padding: 0;
-}
-
-#messages li {
-    padding: 8px;
-    margin-bottom: 5px;
-    background: #e0e0e0;
-    border-radius: 5px;
+body{
+    backgorund-color:black;
+    color:white;
 }
