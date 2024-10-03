@@ -1,4 +1,26 @@
-body{
-    backgorund-color:black;
-    color:white;
+/* public/style.css */
+body {
+    background-color: black;
+    color: white;
+    font-family:'GmarketSansMedium' ;
 }
+
+
+button,input{
+    background-color: white;
+    color:black;
+    font-size: 15pt;
+}
+ul{
+    color:White;
+    font-size: 23pt;
+}
+
+@font-face {
+    font-family: 'GmarketSansMedium';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
